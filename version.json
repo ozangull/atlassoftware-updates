@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/ozangull/atlassoftware-updates/releases/download/ATLASviewer/ATLASviewer_Setup.exe",
-    "sha256": "bd8732aca9b977a0565aab77cf08f4b6c238fd0266ea91bcf1e349880c53bdee",
+    "sha256": "da5a61c6c73f7b451a0902cd7daf21df633da0baf7892c79bc63c57381690029",
     "notes": "Bug fixes and improvements"
   }
